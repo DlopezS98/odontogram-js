@@ -46,10 +46,11 @@ export default class SvgToothBuilder {
 }
 
 export class Tooth {
-    constructor(id, x, y) {
+    constructor(id, x, y, order) {
         this.id = id;
         this.x = x;
         this.y = y;
+        this.order = order;
     }
 }
 

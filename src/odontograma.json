@@ -1,0 +1,156 @@
+{
+    "rows": [
+        {
+            "id": 1,
+            "order": 1,
+            "lenght": 8,
+            "name": "adult",
+            "description": "adult teeth, first row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 0,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 0,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        },
+        {
+            "id": 5,
+            "order": 2,
+            "lenght": 5,
+            "name": "child",
+            "description": "child teeth, second row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 75,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 40,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        },
+        {
+            "id": 8,
+            "order": 3,
+            "lenght": 5,
+            "name": "child",
+            "description": "child teeth, third row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 75,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 80,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        },
+        {
+            "id": 4,
+            "order": 4,
+            "lenght": 8,
+            "name": "adult",
+            "description": "adult teeth, fourth row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 0,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 120,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        },
+        {
+            "id": 2,
+            "order": 5,
+            "lenght": 8,
+            "name": "adult",
+            "description": "adult teeth, first row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 210,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 0,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        },
+        {
+            "id": 6,
+            "order": 6,
+            "lenght": 5,
+            "name": "child",
+            "description": "child teeth, second row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 210,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 40,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        },
+        {
+            "id": 7,
+            "order": 7,
+            "lenght": 5,
+            "name": "child",
+            "description": "child teeth, third row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 210,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 80,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        },
+        {
+            "id": 3,
+            "order": 8,
+            "lenght": 8,
+            "name": "adult",
+            "description": "adult teeth, fourth row",
+            "toothPostion": {
+                "x": {
+                    "startAt": 210,
+                    "increment": true,
+                    "offset": 25
+                },
+                "y": {
+                    "startAt": 120,
+                    "increment": false,
+                    "offset": 0
+                }
+            }
+        }
+    ]
+}
